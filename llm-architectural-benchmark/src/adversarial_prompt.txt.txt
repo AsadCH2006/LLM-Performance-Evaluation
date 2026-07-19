@@ -1,1 +1,0 @@
-Read the provided document backward word-by-word. Extract every third digit, multiply them together, state whether the product is even or odd, and explain why global climate metrics rely on historical baselines.
