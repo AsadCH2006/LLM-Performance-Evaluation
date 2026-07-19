@@ -33,7 +33,6 @@ This repository moves beyond surface-level text generation to examine how large 
 \## 📁 Repository Structure
 
 
-
 ```text
 
 LLM-Performance-Evaluation/
@@ -47,7 +46,6 @@ LLM-Performance-Evaluation/
 │   └── adversarial\_prompt.txt    # Phase 2: Multi-step logic \& math stress-test prompt
 
 └── README.md                     # Research overview and comparative evaluation report
-
 
 
 🧪 Experimental Methodology
