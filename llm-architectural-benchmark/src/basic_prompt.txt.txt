@@ -1,0 +1,5 @@
+Analyze the provided text regarding global climate trends. Provide a concise, three-bullet-point summary capturing: 
+1. The primary cause and scale of global warming. 
+2. The specific socioeconomic impacts mentioned. 
+3. The main barriers to current adaptation strategies. 
+Do not extrapolate or include outside information. Keep the tone professional and factual.
